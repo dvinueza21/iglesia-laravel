@@ -22,3 +22,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Bloquear videos pesados
+public/assets/**/*.mp4
+public/assets/**/*.MP4
+*.mp4
+*.MP4
+
